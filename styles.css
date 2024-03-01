@@ -60,3 +60,25 @@ button {
   border-radius: 4px;
   color: #292C27;
 }
+
+input[type=text] {
+  background:#C1CEB6; 
+  padding: 6px 10px;
+  border: 1px solid #292C27; 
+  border-radius: 2px;
+  color: #292C27;
+  margin: 6px;
+  font-weight: bold;
+
+  }
+
+input[type=button] {
+  background:#292C27; 
+  padding: 10px 12px;
+  border: 0px solid #292C27; 
+  border-radius: 5px;
+  color: #C1CEB6;
+  margin-top: 10px;
+  font-weight: bold;
+
+  }
