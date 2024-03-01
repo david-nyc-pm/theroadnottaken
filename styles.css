@@ -14,7 +14,7 @@ heading {
   padding-top:10px;
   padding-bottom: 30px;
   
-  border-image: linear-gradient(#292C27, #C1CEB6) 30;
+  border-image: linear-gradient(#292C27, #c7d3bd) 30;
   border-width: 1px;
   border-style: solid;
 
@@ -26,7 +26,7 @@ heading {
  padding-top:30px;
  padding-bottom: 10px;
   
-  border-image: linear-gradient(#C1CEB6,#292C27) 30;
+  border-image: linear-gradient(#c7d3bd,#292C27) 30;
   border-width: 1px;
   border-style: solid;
 
